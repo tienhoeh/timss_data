@@ -1,7 +1,7 @@
 Country,2015,2023
 Singapore,621,605
 Chinese Taipei,599,602
-"Korea, Rep. of",606,596
+South Korea,606,596
 Japan,586,595
 Hong Kong SAR,594,575
 England,518,525
@@ -10,7 +10,7 @@ Czech Republic,#N/A,518
 Sweden,501,517
 Lithuania,511,514
 Australia,505,509
-Türkiye,#N/A,509
+Turkiye,#N/A,509
 Hungary,514,506
 Finland,#N/A,504
 Italy,494,501
@@ -27,7 +27,7 @@ Georgia,453,467
 Kazakhstan,528,454
 Qatar,437,451
 Bahrain,454,426
-"Iran, Islamic Rep. of",436,423
+Iran,436,423
 Uzbekistan,#N/A,421
 Chile,427,416
 Oman,403,411
